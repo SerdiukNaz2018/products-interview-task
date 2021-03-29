@@ -1,0 +1,21 @@
+.ProductPage {
+	padding: 20px;
+	height: 100%;
+}
+
+.ProductPage img {
+	width: 50%;
+}
+
+.Characteristics {
+	text-align: center;
+	padding: 20px;
+	display: inline-block;
+	vertical-align: top;
+	width: 45%;
+}
+
+.Comment {
+	width: 100%;
+	height: 100px;
+}

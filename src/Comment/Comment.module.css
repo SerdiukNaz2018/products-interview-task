@@ -1,0 +1,18 @@
+.Comment {
+	margin: 10px auto;
+	width: 100%;
+	background-color: white;
+	padding: 10px;
+	box-shadow: 3px 5px 10px rgb(124, 124, 124);
+	box-sizing: border-box;
+}
+
+.Comment p {
+	font-size: large;
+	font-weight: 300;
+}
+
+#Date {
+	font-weight: bolder;
+	font-size: small;
+}

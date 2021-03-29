@@ -1,0 +1,22 @@
+.ProductsPage {
+	padding: 20px;
+	height: 100%;
+}
+
+.ProductsPage button {
+	width: 120px;
+	height: 40px;
+	border-width: 0;
+	margin: 40px;
+	box-shadow: 3px 5px 10px rgb(124, 124, 124);
+}
+
+.ProductsPage button:hover {
+	background-color: rgb(223, 223, 223);
+}
+
+.Buttons {
+	box-sizing: border-box;
+	width: 100%;
+	text-align: center;
+}

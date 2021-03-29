@@ -1,0 +1,43 @@
+.Product {
+	text-align: center;
+	width: 300px;
+	background-color: white;
+	box-shadow: 3px 5px 10px rgb(124, 124, 124);
+	box-sizing: border-box;
+	display: inline-block;
+	vertical-align: top;
+	margin: 30px;
+	cursor: pointer;
+}
+
+.Product:hover {
+	box-shadow: 10px 10px 10px rgb(124, 124, 124);
+}
+
+.Product img {
+	width: 300px;
+	height: 200px;
+}
+
+.Product h2 {
+	text-align: center;
+	margin: 10px;
+	margin-bottom: 0;
+}
+
+.Characteristics {
+	text-align: left;
+	padding: 20px;
+}
+
+.Product button {
+	background-color: rgb(255, 73, 73);
+	color: white;
+	width: 80px;
+	height: 30px;
+	margin: 0px;
+}
+
+.Product button:hover {
+	background-color: rgb(255, 49, 49);
+}
